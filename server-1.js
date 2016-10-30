@@ -19,7 +19,7 @@ db.once('open', function () {
 	// create a new dish
 	var newDish = Dishes({
 		name: 'Egg Tart',
-		description: 'Very yummy Hong Kong style egg tart freshly baked.'
+		description: 'Delicious Hong Kong style egg tart freshly baked.'
 	});
 
 	// save dish
